@@ -2016,7 +2016,7 @@ Skopiuj instalator na lokalny dysk.</translation>
     <name>QInstaller::PerformInstallationPage</name>
     <message>
         <source>U&amp;ninstall</source>
-        <translation>Zdezi&amp;nstaluj</translation>
+        <translation>Zdezi&amp;</translation>
     </message>
     <message>
         <source>Uninstalling %1</source>
@@ -2070,7 +2070,7 @@ Skopiuj instalator na lokalny dysk.</translation>
     <name>QInstaller::ReadyForInstallationPage</name>
     <message>
         <source>U&amp;ninstall</source>
-        <translation>Zdezi&amp;nstaluj</translation>
+        <translation>Odi&amp;nstaluj</translation>
     </message>
     <message>
         <source>Ready to Uninstall</source>
